@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# Ranorex Studio 9.3.0
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Context_Main_page", "Context_Main_page.csproj", "{2CC8BB6A-FDE2-4827-93B3-E1A71B4B17F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC8BB6A-FDE2-4827-93B3-E1A71B4B17F6}.Debug|x86.Build.0 = Debug|x86
+		{2CC8BB6A-FDE2-4827-93B3-E1A71B4B17F6}.Debug|x86.ActiveCfg = Debug|x86
+		{2CC8BB6A-FDE2-4827-93B3-E1A71B4B17F6}.Release|x86.Build.0 = Release|x86
+		{2CC8BB6A-FDE2-4827-93B3-E1A71B4B17F6}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
